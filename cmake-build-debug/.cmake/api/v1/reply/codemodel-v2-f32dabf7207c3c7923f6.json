@@ -58,8 +58,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/a-hidalgo/Documents/P1-ImageProcessingAPI/cmake-build-debug",
-		"source" : "/home/a-hidalgo/Documents/P1-ImageProcessingAPI"
+		"build" : "/home/ahidalgo/Documents/P1-ImageProcessingAPI/cmake-build-debug",
+		"source" : "/home/ahidalgo/Documents/P1-ImageProcessingAPI"
 	},
 	"version" : 
 	{
